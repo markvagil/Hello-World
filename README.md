@@ -1,10 +1,8 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+* This program just prints "Hello World" in the output window when you run it.
 
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
+* The purpose for creating this software is to be able to become familiar with how github and visual studio code interact so that I am able to comfortably and proficiently use each program to create and store my projects online.
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
@@ -12,12 +10,12 @@
 
 # Development Environment
 
-{The tool that I used to develop the software was Visual Studio Code. This is my favorite Integraded Development Environment because it is a very lightweight program yet it still includes a lot of }
-
-{The programming language that I used to complete this project is Python. It is a very interesting and unique language which is based around object oriented programming and I enjoy using it very much.}
+* The tool that I used to develop the software was Visual Studio Code. This is my favorite Integraded Development Environment because it is a very lightweight program yet it still includes a lot of advanced functionality.
+* The programming language that I used to complete this project is Python in version 3.7.8 64-bit. It is a very interesting and unique language which is based around object oriented programming and I enjoy using it very much.
+* Github is the online repository I used to store this project.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+These are some of the websites that were useful to me in making this project:
 * [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-* [Web Site Name](http://url.link.goes.here)
+* [Working with GitHub in VS Code](https://code.visualstudio.com/docs/editor/github)
