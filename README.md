@@ -4,9 +4,7 @@
 
 * The purpose for creating this software is to be able to become familiar with how github and visual studio code interact so that I am able to comfortably and proficiently use each program to create and store my projects online.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Lbjkn_6rqQg)
 
 # Development Environment
 
